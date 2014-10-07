@@ -1,0 +1,17 @@
+.jumbotron {
+	height: 200px;
+	background-color: #f0f000;
+	background-size: cover;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+	display: inline;
+}
