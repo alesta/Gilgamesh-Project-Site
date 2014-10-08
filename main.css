@@ -11,7 +11,7 @@
 
 .nav a {
   color: #5a5a5a;
-  font-size: 11px;
+  font-size: 14px;
   font-weight: bold;
   font-family: 'Shift', sans-serif;
   padding: 14px 10px;
@@ -30,13 +30,14 @@
 
 .character-bio {
 	font-family: 'Shift', sans-serif;
-	background-color: #efefef;
+	background-color: #f3f3f3;
 	border-bottom: 1px solid black;
 }
 
 .analysis {
 	font-family: 'Shift', sans-serif;
-	background-color: #ffffff;
+	background-color: #efefef;
+	border-bottom: 1px solid black
 }
 
 .about {
@@ -49,4 +50,11 @@
 	height: 500px;
 	padding-top:25px;
 	padding-bottom: 25px;
+}
+
+.footer {
+	color: grey;
+	font-size: 10pt;
+	font-family: 'Shift', sans-serif;
+	background-color: #ffffff;
 }
