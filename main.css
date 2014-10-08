@@ -1,7 +1,11 @@
 .jumbotron {
 	height: 200px;
-	background-color: #f0f000;
+	background-image: url('http://www.ancient.eu/uploads/images/93.jpg');
 	background-size: cover;
+}
+
+.jumbotron h1 {
+	color: #e1b1a1;
 }
 
 .nav a {
@@ -14,4 +18,20 @@
 
 .nav li {
 	display: inline;
+}
+
+.description {
+	
+}
+
+.character-bio {
+	
+}
+
+.analysis {
+	
+}
+
+.about {
+	
 }
